@@ -1,56 +1,109 @@
-<div align="center">
-  
- <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=A88475&height=200&section=header&text=Hello&desc=Hug%20me&fontSize=60&fontColor=FAE9D1&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
-
-<!-- Introduction -->
-  ### 🌱 Growing Github sprout
- <br/><br/>
-
-
-<!--Stack-->
- ## Tech Stack 🖥️
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Jaegyeong%20Moon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring&descSize=20&descAlignY=58)
 
 <div align="center">
-  <!--Java-->
- <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
- <!--MysQL-->
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
- <!--Spring-->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--HTML5-->
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
- <!--CSS3-->
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer+from+Incheon;Java+%2F+Spring+Boot+%2F+MySQL;Solving+algorithms+on+Baekjoon+every+day;Growing+GitHub+Sprout+%F0%9F%8C%B1&font=Fira+Code&size=22&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=MoonJaeGyeong&label=Profile%20views&color=70a5fd&style=flat)
+
 </div>
 
- <br/><br/><br/><br/>
+<br/>
 
- <!--Studying -->
- ## Studying :pencil2: 
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <br/><br/><br/><br/><br/><br/>
- <!--SNS --> 
- <h2/>SNS 📱</h2> 
+## 🙋‍♂️ About Me
 
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> : [moon9_9p](https://www.instagram.com/moon9_9p/?hl=ko)
+- 🌱 **Java / Spring** 기반 백엔드 개발자로 성장하는 중입니다
+- 🧩 [Baekjoon](https://github.com/MoonJaeGyeong/Baekjoon)에서 꾸준히 알고리즘 문제를 풀고 있습니다
+- 🎓 SSAFY · 우아한테크코스 프리코스 · 프로그래머스 백엔드 과정으로 학습했습니다
+- ✍️ 배운 것들은 [velog](https://velog.io/@mjk8087)에 기록합니다
+- 💬 개발이 좋아서 개발합니다 — *"I like Development"*
 
-  <img src="https://img.shields.io/badge/KaKaoTalk-FFCD00?style=flat-square&logo=KaKaoTalk&logoColor=white"/> : [mjk8087](http://qr.kakao.com/talk/vwBli53UIKZyB85AmIfF.8jkMY0-)
- 
-  <br/><br/><br/><br/>
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,idea&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+**Main**
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Also Using**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
 
-<!--
-**MoonJaeGyeong/MoonJaeGyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoonJaeGyeong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MoonJaeGyeong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoonJaeGyeong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/><br/>
+
+<!-- github-profile-trophy 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요.
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoonJaeGyeong&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoonJaeGyeong&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+## 📌 Pinned
+
+<div align="center">
+
+[![Baekjoon](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=MoonJaeGyeong&repo=Baekjoon&theme=tokyonight&hide_border=true)](https://github.com/MoonJaeGyeong/Baekjoon)
+[![Spring](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=MoonJaeGyeong&repo=Spring&theme=tokyonight&hide_border=true)](https://github.com/MoonJaeGyeong/Spring)
+
+</div>
+
+<br/>
+
+## 📱 Contact
+
+<div align="center">
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mjk8087)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moon9_9p/?hl=ko)
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](http://qr.kakao.com/talk/vwBli53UIKZyB85AmIfF.8jkMY0-)
+
+</div>
+
+<br/>
+
+<!-- Snake animation (generated by .github/workflows/snake.yml) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoonJaeGyeong/MoonJaeGyeong/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoonJaeGyeong/MoonJaeGyeong/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/MoonJaeGyeong/MoonJaeGyeong/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer)
