@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer+from+Incheon;Java+%2F+Spring+Boot+%2F+MySQL;Solving+algorithms+on+Baekjoon+every+day;Growing+GitHub+Sprout+%F0%9F%8C%B1&font=Fira+Code&size=22&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Java+%2F+Spring+Boot+%2F+MySQL;Solving+algorithms+on+Baekjoon+every+day;Growing+GitHub+Sprout+%F0%9F%8C%B1&font=Fira+Code&size=22&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MoonJaeGyeong&label=Profile%20views&color=70a5fd&style=flat)
 
