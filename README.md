@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Jaegyeong%20Moon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring&descSize=20&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Jaegyeong%20Moon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring&descSize=20&descAlignY=58)
 
 <div align="center">
 
@@ -52,8 +52,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoonJaeGyeong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MoonJaeGyeong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=MoonJaeGyeong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=MoonJaeGyeong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -66,17 +66,6 @@
 -->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoonJaeGyeong&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-## 📌 Pinned
-
-<div align="center">
-
-[![Baekjoon](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=MoonJaeGyeong&repo=Baekjoon&theme=tokyonight&hide_border=true)](https://github.com/MoonJaeGyeong/Baekjoon)
-[![Spring](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=MoonJaeGyeong&repo=Spring&theme=tokyonight&hide_border=true)](https://github.com/MoonJaeGyeong/Spring)
 
 </div>
 
