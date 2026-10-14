@@ -6,7 +6,9 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Java+%2F+Spring+Boot+%2F+MySQL;Solving+algorithms+on+Baekjoon+every+day;Growing+GitHub+Sprout+%F0%9F%8C%B1&font=Fira+Code&size=22&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800)](https://git.io/typing-svg)
 
+<!-- komarev 프로필 조회수 배지가 GitHub 이미지 프록시(camo)에서 로드되지 않아(404 "Cannot proxy the given URL") 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-14 확인: 직접 접속은 200이지만 GitHub에서는 깨짐)
 ![Profile views](https://komarev.com/ghpvc/?username=MoonJaeGyeong&label=Profile%20views&color=70a5fd&style=flat)
+-->
 
 </div>
 
