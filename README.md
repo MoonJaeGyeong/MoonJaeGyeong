@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Java+%2F+Spring+Boot+%2F+MySQL;Solving+algorithms+on+Baekjoon+every+day;Growing+GitHub+Sprout+%F0%9F%8C%B1&font=Fira+Code&size=22&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=800)](https://git.io/typing-svg)
 
-<!-- komarev 프로필 조회수 배지가 GitHub 이미지 프록시(camo)에서 로드되지 않아(404 "Cannot proxy the given URL") 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-21 재확인: 직접 접속은 200이지만 camo에서 404로 여전히 깨짐)
+<!-- komarev 프로필 조회수 배지가 GitHub 이미지 프록시(camo)에서 로드되지 않아(404 "Cannot proxy the given URL") 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-22 재확인: 직접 접속은 200이지만 camo에서 404로 여전히 깨짐)
 ![Profile views](https://komarev.com/ghpvc/?username=MoonJaeGyeong&label=Profile%20views&color=70a5fd&style=flat)
 -->
 
@@ -59,11 +59,11 @@
 
 <br/><br/>
 
-<!-- github-profile-trophy 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-21 재확인: 여전히 402)
+<!-- github-profile-trophy 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-22 재확인: 여전히 402)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoonJaeGyeong&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-<!-- github-readme-activity-graph 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-21 재확인: 여전히 402)
+<!-- github-readme-activity-graph 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-10-22 재확인: 여전히 402)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoonJaeGyeong&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
