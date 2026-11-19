@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-<!-- github-profile-trophy 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-11-18 재확인: 여전히 402)
+<!-- github-profile-trophy 서비스가 현재 중단 상태(HTTP 402)라 임시 비활성화. 복구되면 아래 주석을 해제하세요. (2026-11-19 재확인: 여전히 402)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoonJaeGyeong&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
